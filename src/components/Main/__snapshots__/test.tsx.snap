@@ -55,7 +55,7 @@ exports[`<Main/> Should be render a heading 1`] = `
   <h1
     class="c2"
   >
-    Ellie.On Solutions
+    Ellie.On Boilerplate
   </h1>
   <h2
     class="c3"
