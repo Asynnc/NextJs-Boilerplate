@@ -21,7 +21,7 @@
   <p align="center">
     A Complete NextJs Boilerplate
     <br />
-    <a href="https://github.com/Ellie-on/NextJs-Boilerplate"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Ellie-on/NextJs-Boilerplate/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Ellie-on/NextJs-Boilerplate">View Demo</a>
@@ -125,7 +125,7 @@ This is an example of how to list things you need to use the software and how to
   },
 ```
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/Ellie-on/NextJs-Boilerplate/wiki/Scripts---package.json)_
 
 
 
