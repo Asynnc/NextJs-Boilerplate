@@ -1,0 +1,22 @@
+{
+  "name": "Ellie.On Boilerplate",
+  "short_name": "Ellie.On",
+  "icons": [
+    {
+      "src": "/img/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/img/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#06092B",
+  "background_color": "#06092B",
+  "start_url": "/",
+  "display": "fullscreen",
+  "description": "Typescript, ReactJs, NextJs e Styled Components"
+}
