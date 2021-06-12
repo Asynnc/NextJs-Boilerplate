@@ -1,27 +1,70 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
 exports[`<Main/> Should be render a heading 1`] = `
+.c0 {
+  background-color: #06092b;
+  color: #ffffff;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 3rem;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c1 {
+  width: 25rem;
+  margin-bottom: 2rem;
+}
+
+.c2 {
+  font-size: 2.5rem;
+}
+
+.c3 {
+  font-size: 2rem;
+  font-weight: 400;
+}
+
+.c4 {
+  margin-top: 3rem;
+  width: 30rem;
+}
+
 <main
-  class="styles__Wrapper-dzx1ao-0 kpWeVY"
+  class="c0"
 >
   <img
     alt="Imagem de um átomo e React Avançado escrito ao lado."
-    class="styles__Logo-dzx1ao-1 dcISKB"
+    class="c1"
     src="/img/logo.svg"
   />
   <h1
-    class="styles__Title-dzx1ao-2 kSTVFj"
+    class="c2"
   >
     Ellie.On Solutions
   </h1>
   <h2
-    class="styles__Description-dzx1ao-3 edoRUQ"
+    class="c3"
   >
     Typescript, ReactJs, NextJs e Styled Components
   </h2>
   <img
     alt="Um desenvolvedor de frente para a tela com código"
-    class="styles__Illustration-dzx1ao-4 dFsqsi"
+    class="c4"
     src="/img/hero-illustration.svg"
   />
 </main>
