@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Ellie-on/NextJs-Boilerplate">
-    <img src="https://i.imgur.com/hz10ADv.png" alt="Logo">
+    <img src="https://i.imgur.com/aJlvklQ.png" alt="Logo">
   </a>
 
   <h3 align="center">NextJs Boilerplate</h3>
@@ -21,14 +21,14 @@
   <p align="center">
     A Complete NextJs Boilerplate
     <br />
-    <a href="https://github.com/Ellie-on/NextJs-Boilerplate/wiki"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Asynnc/NextJs-Boilerplate/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Ellie-on/NextJs-Boilerplate">View Demo</a>
+    <a href="https://github.com/Asynnc/NextJs-Boilerplate">View Demo</a>
     ·
-    <a href="https://github.com/Ellie-on/NextJs-Boilerplate">Report Bug</a>
+    <a href="https://github.com/Asynnc/NextJs-Boilerplate">Report Bug</a>
     ·
-    <a href="https://github.com/Ellie-on/NextJs-Boilerplate">Request Feature</a>
+    <a href="https://github.com/Asynnc/NextJs-Boilerplate">Request Feature</a>
   </p>
 </p>
 
@@ -98,7 +98,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Ellie-on/NextJs-Boilerplate.git
+   git clone https://github.com/Asynnc/NextJs-Boilerplate.git
    ```
 2. Install NPM packages
    ```sh
@@ -125,14 +125,14 @@ This is an example of how to list things you need to use the software and how to
   },
 ```
 
-_For more examples, please refer to the [Documentation](https://github.com/Ellie-on/NextJs-Boilerplate/wiki/Scripts---package.json)_
+_For more examples, please refer to the [Documentation](https://github.com/Asynnc/NextJs-Boilerplate/wiki/Scripts---package.json)_
 
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/Ellie-on/NextJs-Boilerplate/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/Asynnc/NextJs-Boilerplate/issues) for a list of proposed features (and known issues).
 
 
 
@@ -171,15 +171,15 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Ellie-on/NextJs-Boilerplate.svg?style=for-the-badge
-[contributors-url]: https://github.com/Ellie-on/NextJs-Boilerplate/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Ellie-on/NextJs-Boilerplate.svg?style=for-the-badge
-[forks-url]: https://github.com/Ellie-on/NextJs-Boilerplate/network/members
-[stars-shield]: https://img.shields.io/github/stars/Ellie-on/NextJs-Boilerplate.svg?style=for-the-badge
-[stars-url]: https://github.com/Ellie-on/NextJs-Boilerplate/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Ellie-on/NextJs-Boilerplate.svg?style=for-the-badge
-[issues-url]: https://github.com/Ellie-on/NextJs-Boilerplate/issues
-[license-shield]: https://img.shields.io/github/license/Ellie-on/NextJs-Boilerplate.svg?style=for-the-badge
-[license-url]: https://github.com/Ellie-on/NextJs-Boilerplate/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Asynnc/NextJs-Boilerplate.svg?style=for-the-badge
+[contributors-url]: https://github.com/Asynnc/NextJs-Boilerplate/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Asynnc/NextJs-Boilerplate.svg?style=for-the-badge
+[forks-url]: https://github.com/Asynnc/NextJs-Boilerplate/network/members
+[stars-shield]: https://img.shields.io/github/stars/Asynnc/NextJs-Boilerplate.svg?style=for-the-badge
+[stars-url]: https://github.com/Asynnc/NextJs-Boilerplate/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Asynnc/NextJs-Boilerplate.svg?style=for-the-badge
+[issues-url]: https://github.com/Asynnc/NextJs-Boilerplate/issues
+[license-shield]: https://img.shields.io/github/license/Asynnc/NextJs-Boilerplate.svg?style=for-the-badge
+[license-url]: https://github.com/Asynnc/NextJs-Boilerplate/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/tony-silva/
